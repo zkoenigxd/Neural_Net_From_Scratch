@@ -1,1 +1,1 @@
-# cs-4383-project
+# math-4383-project
