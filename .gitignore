@@ -1,4 +1,3 @@
 .venv/
-training_progress.csv
 *.npy
 *.csv
